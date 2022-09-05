@@ -1,0 +1,58 @@
+[
+  {
+    "ID": "c:@counter",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "counter",
+    "location": {
+      "column": "5",
+      "line": "2",
+      "path": "D:\\EEE\\Embedded Systems\\Tiva Launchpad\\Projects\\Lesson 3\\main.c"
+    },
+    "name": "counter",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@main",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int main(void)",
+    "location": {
+      "column": "5",
+      "line": "4",
+      "path": "D:\\EEE\\Embedded Systems\\Tiva Launchpad\\Projects\\Lesson 3\\main.c"
+    },
+    "name": "main",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@89@F@main@p",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "p",
+    "location": {
+      "column": "8",
+      "line": "7",
+      "path": "D:\\EEE\\Embedded Systems\\Tiva Launchpad\\Projects\\Lesson 3\\main.c"
+    },
+    "name": "p",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@173@F@main@i",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "i",
+    "location": {
+      "column": "11",
+      "line": "10",
+      "path": "D:\\EEE\\Embedded Systems\\Tiva Launchpad\\Projects\\Lesson 3\\main.c"
+    },
+    "name": "i",
+    "origin": "project_file",
+    "scope": null
+  }
+]

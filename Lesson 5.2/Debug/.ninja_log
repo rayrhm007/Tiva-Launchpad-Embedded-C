@@ -1,0 +1,93 @@
+# ninja log v5
+1	150	6749490931304112	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Debug/Obj/main.o	e936945d370a1daf
+152	213	6749490931968112	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Debug/Exe/Lesson.out	bc32a97bb0386284
+1	59	6749491776259703	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Debug/Obj/main.o	e936945d370a1daf
+62	101	6749491776710725	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Debug/Exe/Lesson.out	bc32a97bb0386284
+1	53	6749492044097112	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Debug/Obj/main.o	e936945d370a1daf
+55	92	6749492044517206	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Debug/Exe/Lesson.out	bc32a97bb0386284
+1	111	6749513779561770	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Debug/Obj/main.o	e936945d370a1daf
+114	151	6749513780011872	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Debug/Exe/Lesson.out	bc32a97bb0386284
+0	53	6749514505823217	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Debug/Obj/main.o	e936945d370a1daf
+1	41	6749514520781964	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Debug/Exe/Lesson.out	bc32a97bb0386284
+1	55	6749515459193616	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Debug/Obj/main.o	e936945d370a1daf
+57	96	6749515459643716	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Debug/Exe/Lesson.out	bc32a97bb0386284
+1	55	6749516447043782	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Debug/Obj/main.o	e936945d370a1daf
+1	39	6749516514134316	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Debug/Exe/Lesson.out	bc32a97bb0386284
+1	106	6749520542800957	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 2/Debug/Obj/main.o	d58aa57f5804c6dc
+110	148	6749520543283470	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 2/Debug/Exe/Lesson.out	26ce3df5139fdc6f
+3	224	6749961032778475	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 2/Debug/Obj/main.o	d58aa57f5804c6dc
+228	294	6749961033604843	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 2/Debug/Exe/Lesson.out	26ce3df5139fdc6f
+1	163	6753621088952075	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 3/Debug/Obj/main.o	a333b9a574ae23b1
+166	253	6753621089872416	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 3/Debug/Exe/Lesson.out	972b5c88205080c8
+1	58	6753623874032745	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 3/Debug/Obj/main.o	a333b9a574ae23b1
+61	99	6753623874482834	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 3/Debug/Exe/Lesson.out	972b5c88205080c8
+0	112	6753664183079795	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 3/Debug/Obj/main.o	a333b9a574ae23b1
+1	39	6753664201397419	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 3/Debug/Exe/Lesson.out	972b5c88205080c8
+0	55	6753665330465463	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 3/Debug/Obj/main.o	a333b9a574ae23b1
+1	40	6753665356390132	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 3/Debug/Exe/Lesson.out	972b5c88205080c8
+1	53	6753666154603052	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 3/Debug/Obj/main.o	a333b9a574ae23b1
+56	91	6753666155023147	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 3/Debug/Exe/Lesson.out	972b5c88205080c8
+1	53	6753666962751341	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 3/Debug/Obj/main.o	a333b9a574ae23b1
+56	90	6753666963161433	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 3/Debug/Exe/Lesson.out	972b5c88205080c8
+2	88	6755434827936449	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 4/Debug/Obj/main.o	f4928381fcda6ac6
+93	161	6755434828721943	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 4/Debug/Exe/Lesson.out	cfaad9235d5cef5e
+0	117	6755614276406308	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 4/Debug/Obj/main.o	f4928381fcda6ac6
+1	272	6755618576180877	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 4/Debug/Obj/main.o	f4928381fcda6ac6
+1	132	6755621042049819	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 4/Debug/Obj/main.o	f4928381fcda6ac6
+1	121	6755621178292780	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 4/Debug/Obj/main.o	f4928381fcda6ac6
+2	88	6755621209254265	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 4/Debug/Exe/Lesson.out	cfaad9235d5cef5e
+2	266	6755621582280789	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 4/Debug/Obj/main.o	f4928381fcda6ac6
+273	350	6755621583223138	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 4/Debug/Exe/Lesson.out	cfaad9235d5cef5e
+3	265	6755626591765226	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 4/Debug/Obj/main.o	f4928381fcda6ac6
+272	363	6755626592862998	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 4/Debug/Exe/Lesson.out	cfaad9235d5cef5e
+2	130	6755627713312519	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 4/Debug/Obj/main.o	f4928381fcda6ac6
+137	218	6755627714410413	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 4/Debug/Exe/Lesson.out	cfaad9235d5cef5e
+2	148	6755628739896986	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 4/Debug/Obj/main.o	f4928381fcda6ac6
+155	236	6755628740994901	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 4/Debug/Exe/Lesson.out	cfaad9235d5cef5e
+2	265	6755629710517155	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 4/Debug/Obj/main.o	f4928381fcda6ac6
+272	363	6755629711641341	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 4/Debug/Exe/Lesson.out	cfaad9235d5cef5e
+3	127	6755630681780964	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 4/Debug/Obj/main.o	f4928381fcda6ac6
+134	214	6755630682786212	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 4/Debug/Exe/Lesson.out	cfaad9235d5cef5e
+0	272	6755633561191763	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 4/Debug/Obj/main.o	f4928381fcda6ac6
+2	81	6755633617276848	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 4/Debug/Exe/Lesson.out	cfaad9235d5cef5e
+0	153	6755640258373815	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 4/Debug/Obj/main.o	f4928381fcda6ac6
+2	85	6755640281249964	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 4/Debug/Exe/Lesson.out	cfaad9235d5cef5e
+0	157	6755641276065338	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 4/Debug/Obj/main.o	f4928381fcda6ac6
+3	82	6755641296460605	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 4/Debug/Exe/Lesson.out	cfaad9235d5cef5e
+1	157	6756432126959064	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 5/Debug/Obj/main.o	8cb5c083159cc75e
+0	254	6756889949077504	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 5/Debug/Obj/main.o	8cb5c083159cc75e
+0	88	6756890727689163	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 5/Debug/Obj/main.o	8cb5c083159cc75e
+0	177	6756897942511858	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 5/Debug/Obj/main.o	8cb5c083159cc75e
+0	181	6756931490205143	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 5/Debug/Obj/main.o	8cb5c083159cc75e
+11	101	6756931649377301	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 5/Debug/Exe/Lesson.out	90b3df84a130dda
+1	79	6756932714148695	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 5/Debug/Obj/main.o	8cb5c083159cc75e
+2	53	6756932732232974	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 5/Debug/Exe/Lesson.out	90b3df84a130dda
+1	75	6756933452884699	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 5/Debug/Obj/main.o	8cb5c083159cc75e
+0	173	6756934849765289	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 5/Debug/Obj/main.o	8cb5c083159cc75e
+1	54	6756935023642257	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 5/Debug/Exe/Lesson.out	90b3df84a130dda
+0	171	6756948938752488	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 5/Debug/Obj/main.o	8cb5c083159cc75e
+0	81	6756951395290851	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 5/Debug/Obj/main.o	8cb5c083159cc75e
+0	168	6756952107514717	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 5/Debug/Obj/main.o	8cb5c083159cc75e
+1	77	6756952393582746	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 5/Debug/Obj/main.o	8cb5c083159cc75e
+2	57	6756952509117883	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 5/Debug/Exe/Lesson.out	90b3df84a130dda
+0	74	6756952983584793	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 5/Debug/Obj/main.o	8cb5c083159cc75e
+2	52	6756953004286298	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 5/Debug/Exe/Lesson.out	90b3df84a130dda
+1	79	6756953723540693	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 5/Debug/Obj/main.o	8cb5c083159cc75e
+1	53	6756953827403803	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 5/Debug/Exe/Lesson.out	90b3df84a130dda
+2	85	6756954823280119	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 5/Debug/Obj/main.o	8cb5c083159cc75e
+89	147	6756954823950306	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 5/Debug/Exe/Lesson.out	90b3df84a130dda
+0	84	6756961958936790	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 5/Debug/Obj/main.o	8cb5c083159cc75e
+1	74	6756962105494547	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 5/Debug/Obj/main.o	8cb5c083159cc75e
+7	148	6758770232164445	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 5.2/Debug/Obj/main.o	6d6f254c7abbbafa
+151	205	6758770232764580	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 5.2/Debug/Exe/Lesson.out	420be23c3e049bc7
+0	53	6758770348799441	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 5.2/Debug/Obj/main.o	6d6f254c7abbbafa
+0	117	6758780096934636	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 5.2/Debug/Obj/main.o	6d6f254c7abbbafa
+1	155	6758783637738632	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 5.2/Debug/Obj/main.o	3fdcbeb08af3a010
+157	203	6758783638268755	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 5.2/Debug/Exe/Lesson.out	420be23c3e049bc7
+0	124	6758789804366217	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 5.2/Debug/Obj/main.o	3fdcbeb08af3a010
+1	37	6758789850242633	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 5.2/Debug/Exe/Lesson.out	420be23c3e049bc7
+0	152	6758817378788094	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 5.2/Debug/Obj/main.o	3fdcbeb08af3a010
+1	51	6758817696451013	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 5.2/Debug/Obj/main.o	3fdcbeb08af3a010
+2	39	6758817725393599	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 5.2/Debug/Exe/Lesson.out	420be23c3e049bc7
+1	90	6758818535038644	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 5.2/Debug/Obj/main.o	3fdcbeb08af3a010
+1	38	6758818599047486	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 5.2/Debug/Exe/Lesson.out	420be23c3e049bc7

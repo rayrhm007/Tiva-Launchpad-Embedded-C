@@ -1,0 +1,30 @@
+[
+  {
+    "ID": "c:@F@main",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int main(void)",
+    "location": {
+      "column": "5",
+      "line": "3",
+      "path": "D:\\EEE\\Embedded Systems\\Tiva Launchpad\\Projects\\Lesson 4\\main.c"
+    },
+    "name": "main",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@463@F@main@count",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "count",
+    "location": {
+      "column": "7",
+      "line": "13",
+      "path": "D:\\EEE\\Embedded Systems\\Tiva Launchpad\\Projects\\Lesson 4\\main.c"
+    },
+    "name": "count",
+    "origin": "project_file",
+    "scope": null
+  }
+]

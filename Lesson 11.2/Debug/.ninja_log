@@ -1,0 +1,15 @@
+# ninja log v5
+0	75	6811612070410186	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 11.2/Debug/Obj/main.o	ad0da08e91b44b50
+0	49	6811612214005846	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 11.2/Debug/Obj/delay.o	94c99594d25247f2
+52	100	6811612214572724	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 11.2/Debug/Exe/c.out	e6968abef5c6f964
+1	52	6811613024407527	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 11.2/Debug/Obj/delay.o	8ab5b9bbd8c52ddd
+8	93	6811613024803241	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 11.2/Debug/Obj/main.o	1e315a06f292dddb
+97	140	6811613025344336	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 11.2/Debug/Exe/c.out	49a68368f385130d
+0	75	6811613438570755	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 11.2/Debug/Obj/main.o	1e315a06f292dddb
+0	34	6811613455365031	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 11.2/Debug/Exe/c.out	49a68368f385130d
+0	76	6811614022525322	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 11.2/Debug/Obj/main.o	1e315a06f292dddb
+0	138	6811614520814215	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 11.2/Debug/Obj/main.o	1e315a06f292dddb
+1	37	6811614548993981	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 11.2/Debug/Exe/c.out	49a68368f385130d
+2	135	6811758121373782	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 11.2/Debug/Obj/main.o	1e315a06f292dddb
+1	40	6811758553777049	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 11.2/Debug/Exe/c.out	49a68368f385130d
+1	51	6811759497018907	D:/EEE/Embedded Systems/Tiva Launchpad/Projects/Lesson 11.2/Debug/Obj/delay.o	8ab5b9bbd8c52ddd
