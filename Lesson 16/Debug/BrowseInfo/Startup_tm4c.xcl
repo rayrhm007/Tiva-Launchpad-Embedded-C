@@ -1,15 +1,15 @@
-"D:\EEE\Embedded Systems\Tiva Launchpad\Projects\Lesson 16\Startup_tm4c.c"
+"D:\EEE\Embedded Systems\Tiva Launchpad\Projects\Tiva-Launchpad-Embedded-C\Lesson 16\Startup_tm4c.c"
 -std=c11
 -ferror-limit=0
 -fbracket-depth=512
 -funsigned-char
 -MD
 -MF
-D:\EEE\Embedded Systems\Tiva Launchpad\Projects\Lesson 16\Debug\BrowseInfo\Startup_tm4c.pbi.dep
+D:\EEE\Embedded Systems\Tiva Launchpad\Projects\Tiva-Launchpad-Embedded-C\Lesson 16\Debug\BrowseInfo\Startup_tm4c.pbi.dep
 -o
-D:\EEE\Embedded Systems\Tiva Launchpad\Projects\Lesson 16\Debug\BrowseInfo\Startup_tm4c.pbi
+D:\EEE\Embedded Systems\Tiva Launchpad\Projects\Tiva-Launchpad-Embedded-C\Lesson 16\Debug\BrowseInfo\Startup_tm4c.pbi
 -I
-D:\EEE\Embedded Systems\Tiva Launchpad\Projects\Lesson 16
+D:\EEE\Embedded Systems\Tiva Launchpad\Projects\Tiva-Launchpad-Embedded-C\Lesson 16
 -I
 C:\Program Files\IAR Systems\Embedded Workbench 9.0\arm\CMSIS\Core\Include\
 -I

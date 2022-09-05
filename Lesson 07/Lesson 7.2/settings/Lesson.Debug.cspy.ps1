@@ -23,9 +23,9 @@
 
 if ($debugfile -eq "")
 {
-& "C:\Program Files\IAR Systems\Embedded Workbench 9.0\common\bin\cspybat" -f "D:\EEE\Embedded Systems\Tiva Launchpad\Projects\Lesson 7.2\settings\Lesson.Debug.general.xcl" --backend -f "D:\EEE\Embedded Systems\Tiva Launchpad\Projects\Lesson 7.2\settings\Lesson.Debug.driver.xcl" 
+& "C:\Program Files\IAR Systems\Embedded Workbench 9.0\common\bin\cspybat" -f "D:\EEE\Embedded Systems\Tiva Launchpad\Projects\Tiva-Launchpad-Embedded-C\Lesson 07\Lesson 7.2\settings\Lesson.Debug.general.xcl" --backend -f "D:\EEE\Embedded Systems\Tiva Launchpad\Projects\Tiva-Launchpad-Embedded-C\Lesson 07\Lesson 7.2\settings\Lesson.Debug.driver.xcl" 
 }
 else
 {
-& "C:\Program Files\IAR Systems\Embedded Workbench 9.0\common\bin\cspybat" -f "D:\EEE\Embedded Systems\Tiva Launchpad\Projects\Lesson 7.2\settings\Lesson.Debug.general.xcl" --debug_file=$debugfile --backend -f "D:\EEE\Embedded Systems\Tiva Launchpad\Projects\Lesson 7.2\settings\Lesson.Debug.driver.xcl" 
+& "C:\Program Files\IAR Systems\Embedded Workbench 9.0\common\bin\cspybat" -f "D:\EEE\Embedded Systems\Tiva Launchpad\Projects\Tiva-Launchpad-Embedded-C\Lesson 07\Lesson 7.2\settings\Lesson.Debug.general.xcl" --debug_file=$debugfile --backend -f "D:\EEE\Embedded Systems\Tiva Launchpad\Projects\Tiva-Launchpad-Embedded-C\Lesson 07\Lesson 7.2\settings\Lesson.Debug.driver.xcl" 
 }

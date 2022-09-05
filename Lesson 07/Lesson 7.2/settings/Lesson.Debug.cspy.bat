@@ -25,7 +25,7 @@ if not "%~1" == "" goto debugFile
 
 @echo on 
 
-"C:\Program Files\IAR Systems\Embedded Workbench 9.0\common\bin\cspybat" -f "D:\EEE\Embedded Systems\Tiva Launchpad\Projects\Lesson 7.2\settings\Lesson.Debug.general.xcl" --backend -f "D:\EEE\Embedded Systems\Tiva Launchpad\Projects\Lesson 7.2\settings\Lesson.Debug.driver.xcl" 
+"C:\Program Files\IAR Systems\Embedded Workbench 9.0\common\bin\cspybat" -f "D:\EEE\Embedded Systems\Tiva Launchpad\Projects\Tiva-Launchpad-Embedded-C\Lesson 07\Lesson 7.2\settings\Lesson.Debug.general.xcl" --backend -f "D:\EEE\Embedded Systems\Tiva Launchpad\Projects\Tiva-Launchpad-Embedded-C\Lesson 07\Lesson 7.2\settings\Lesson.Debug.driver.xcl" 
 
 @echo off 
 goto end 
@@ -34,7 +34,7 @@ goto end
 
 @echo on 
 
-"C:\Program Files\IAR Systems\Embedded Workbench 9.0\common\bin\cspybat" -f "D:\EEE\Embedded Systems\Tiva Launchpad\Projects\Lesson 7.2\settings\Lesson.Debug.general.xcl" "--debug_file=%~1" --backend -f "D:\EEE\Embedded Systems\Tiva Launchpad\Projects\Lesson 7.2\settings\Lesson.Debug.driver.xcl" 
+"C:\Program Files\IAR Systems\Embedded Workbench 9.0\common\bin\cspybat" -f "D:\EEE\Embedded Systems\Tiva Launchpad\Projects\Tiva-Launchpad-Embedded-C\Lesson 07\Lesson 7.2\settings\Lesson.Debug.general.xcl" "--debug_file=%~1" --backend -f "D:\EEE\Embedded Systems\Tiva Launchpad\Projects\Tiva-Launchpad-Embedded-C\Lesson 07\Lesson 7.2\settings\Lesson.Debug.driver.xcl" 
 
 @echo off 
 :end
