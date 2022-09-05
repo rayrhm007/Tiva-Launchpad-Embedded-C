@@ -1,15 +1,15 @@
-"D:\EEE\Embedded Systems\Tiva Launchpad\Projects\Lesson 2\main.c"
+"D:\EEE\Embedded Systems\Tiva Launchpad\Projects\Tiva-Launchpad-Embedded-C\Lesson 02\main.c"
 -std=c11
 -ferror-limit=0
 -fbracket-depth=512
 -funsigned-char
 -MD
 -MF
-D:\EEE\Embedded Systems\Tiva Launchpad\Projects\Lesson 2\Debug\BrowseInfo\main.pbi.dep
+D:\EEE\Embedded Systems\Tiva Launchpad\Projects\Tiva-Launchpad-Embedded-C\Lesson 02\Debug\BrowseInfo\main.pbi.dep
 -o
-D:\EEE\Embedded Systems\Tiva Launchpad\Projects\Lesson 2\Debug\BrowseInfo\main.pbi
+D:\EEE\Embedded Systems\Tiva Launchpad\Projects\Tiva-Launchpad-Embedded-C\Lesson 02\Debug\BrowseInfo\main.pbi
 -I
-D:\EEE\Embedded Systems\Tiva Launchpad\Projects\Lesson 2
+D:\EEE\Embedded Systems\Tiva Launchpad\Projects\Tiva-Launchpad-Embedded-C\Lesson 02
 -I
 C:\Program Files\IAR Systems\Embedded Workbench 9.0\arm\inc\c\aarch32
 -I
